@@ -14,7 +14,9 @@ Written using GO SDK of Hyperledger Fabric, this library serves as a Identity Ma
 4. Compile the project
     go build
 
-5. Run the project
+5. Make a folder called keys and put public and private keys in that folder
+
+6. Run the project
 
 
 ### API's
